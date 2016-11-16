@@ -49,3 +49,6 @@
 [submodule "bundle/vim-less"]
 	path = bundle/vim-less
 	url = git@github.com:groenewege/vim-less.git
+[submodule "bundle/xmledit"]
+	path = bundle/xmledit
+	url = git@github.com:sukima/xmledit.git

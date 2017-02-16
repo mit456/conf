@@ -45,7 +45,7 @@
 	url = git@github.com:scrooloose/syntastic.git
 [submodule "bundle/vim-airline"]
 	path = bundle/vim-airline
-	url = git@github.com:vim-airline/vim-airline.git
+	url = git@github.com:vim-airline/vim-airline-themes.git
 [submodule "bundle/vim-less"]
 	path = bundle/vim-less
 	url = git@github.com:groenewege/vim-less.git
